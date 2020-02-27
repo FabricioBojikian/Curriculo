@@ -1,6 +1,6 @@
 # Fabrício Bojikian Amendoeira
 
-## Funcionário/Vendedor
+## Designer/Developer
 
 Conhecimentos em: Programação - Design Gráfico - Conhecimento básico em vendas e e-commerce.
 Exerceu apoio como: Monitor de Física do instituto Politécnico Bento Quirino, 2016 - 2017.
@@ -33,12 +33,13 @@ Para mais detalhes acesse meu [GitHub](https://github.com/FabricioBojikian/).
 
 ### Formação acadêmica:
 
+Analista de Sistemas, Universidade Estácio de Sá, previsão de conclusão em 2021.
+
 Técnico em Mecatrônica, Colégio Politécnico Bento Quirino, concluso em 2017.
 
 ### Dados e contato:
 
-Dr. Walter Pereira de Queiroz, 725 - Campinas.
-21 anos, Brasileiro, Solteiro.
+22 anos, Brasileiro, Solteiro.
 fabricio.bojikian@gmail.com.
 (19)996009609
 
